@@ -15,7 +15,7 @@ function Home_Right() {
       <Row className="home-right-main">
         <Col xl={12}>
           
-          <Image src="./images/portfolio.png" className="home-right-main-img" alt="Sanil's Image"/>
+          <Image src="https://drive.google.com/open?id=1TMjOfDUD2r8gUXCNvrSytSQL02vLk9fe" className="home-right-main-img" alt="Sanil's Image"/>
         </Col>
         <Row className="home-right-footer" >
           <SocialIcons />
