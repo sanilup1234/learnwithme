@@ -16,11 +16,7 @@ function Home_Right() {
       <Row className="home-right-main">
         <Col xl={12}>
           
-<<<<<<< HEAD
           <Image src={img} className="home-right-main-img" alt="Sanil's Image"/>
-=======
-          <Image src="https://drive.google.com/open?id=1TMjOfDUD2r8gUXCNvrSytSQL02vLk9fe" className="home-right-main-img" alt="Sanil's Image"/>
->>>>>>> 9c88f4e7991500ae2c3e19b9541ceefa84b58fbe
         </Col>
         <Row className="home-right-footer" >
           <SocialIcons />
