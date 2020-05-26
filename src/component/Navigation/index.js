@@ -35,14 +35,7 @@ const Navigationn = () => (
                     PortFolio
                   </NavLink>
                 </NavItem>
-                <NavItem>
-                  <NavLink
-                   
-                    to={ROUTES.COMPILER} tag={Link} >
-                    
-                    Compiler
-                  </NavLink>
-                </NavItem>
+                
                 <NavItem>
                   <NavLink
                    

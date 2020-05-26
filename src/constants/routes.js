@@ -1,4 +1,4 @@
-export const PORTFOLIO = '/';
-export const COMPILER = '/Compiler';
+export const PORTFOLIO = '/learnwithme';
+
 export const LINKEDLIST = '/List'
 export const ARRAY = '/Array'

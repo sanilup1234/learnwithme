@@ -24,7 +24,7 @@ import {
          </h2>
          <h3>
          <ReactTypingEffect
-           text="Pursuing Masters in Computer Science from IIT GUWAHATI " //text=["Hello.", "World!"]
+           text="Pursuing Masters in Computer Science from IIT GUWAHATI " 
            className="typical"
            speed="100"
            eraseDelay="500000"
@@ -32,7 +32,7 @@ import {
          </h3>
           
            <br />
-           <Button  variant="outline-light" size="lg" className="home-left-aboutme"><Link to="/about" style={{ textDecoration: 'none', color: 'white' }} >About Me</Link></Button> &nbsp;
+           <Button  variant="outline-light" size="lg" className="home-left-aboutmme"><Link to="/about" style={{ textDecoration: 'none', color: 'white' }} >About Me</Link></Button> &nbsp;
            <Button variant="outline-light" size="lg" className="home-left-aboutmme"><Link style={{ textDecoration: 'none', color: 'white' }} to="/contact">Contact Me</Link></Button>
          </Col>
      </Row>

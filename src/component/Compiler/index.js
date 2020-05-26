@@ -7,7 +7,7 @@ const Comp = () => {
 	  return(
      <div>
      <Compiler />
-      <Footer />
+     
     </div>
   );
 }

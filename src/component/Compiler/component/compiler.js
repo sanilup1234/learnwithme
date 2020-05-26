@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Tabs from './Tabs';
 import "./style.css"
 import AceEditor from "react-ace";
 import ReactMarkdown from "react-markdown"
@@ -153,7 +153,7 @@ onInput(event) {
 
       
     
-        <Container fluid="true" style={{backgroundColor:"#e0e0e0",color:"black"}}>
+        <Container fluid="true" style={{backgroundColor:"#ffffff",color:"black"}}>
          <Row>
            <Col></Col><Col></Col>
            <Col>
@@ -186,7 +186,22 @@ onInput(event) {
        <Row>
          
          <Col xs="6">
-         <ReactMarkdown source={this.state.md} />
+        
+         <div>
+     
+      <Tabs>
+        <div label="Question">
+        <ReactMarkdown source={this.state.md} />
+        </div>
+        <div label="Solution">
+          Will be Provided Soon !!
+        </div>
+        <div label="Hints">
+         Will be provided soon !!
+        </div>
+      </Tabs>
+    </div>
+    
          </Col>
          <Col xs="6">
          
