@@ -33,7 +33,7 @@ import {
           
            <br />
            <Button  variant="outline-light" size="lg" className="home-left-aboutmme"><Link to="/about" style={{ textDecoration: 'none', color: 'white' }} >About Me</Link></Button> &nbsp;
-           <Button variant="outline-light" size="lg" className="home-left-aboutmme"><Link style={{ textDecoration: 'none', color: 'white' }} to="/contact">Contact Me</Link></Button>
+           <Button variant="outline-light" size="lg" className="home-left-aboutmme"><Link style={{ textDecoration: 'none', color: 'white' }} to="/project">Projects</Link></Button>
          </Col>
      </Row>
    </Container>
