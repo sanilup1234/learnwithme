@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/learnwithme/static/css/main.e2d371be.chunk.css",
-    "main.js": "/learnwithme/static/js/main.3485f249.chunk.js",
-    "main.js.map": "/learnwithme/static/js/main.3485f249.chunk.js.map",
+    "main.css": "/learnwithme/static/css/main.ccc72fe2.chunk.css",
+    "main.js": "/learnwithme/static/js/main.89210e07.chunk.js",
+    "main.js.map": "/learnwithme/static/js/main.89210e07.chunk.js.map",
     "runtime-main.js": "/learnwithme/static/js/runtime-main.3a54fecd.js",
     "runtime-main.js.map": "/learnwithme/static/js/runtime-main.3a54fecd.js.map",
     "static/css/2.81e2c8a5.chunk.css": "/learnwithme/static/css/2.81e2c8a5.chunk.css",
-    "static/js/2.68af27ec.chunk.js": "/learnwithme/static/js/2.68af27ec.chunk.js",
-    "static/js/2.68af27ec.chunk.js.map": "/learnwithme/static/js/2.68af27ec.chunk.js.map",
+    "static/js/2.8ec54eac.chunk.js": "/learnwithme/static/js/2.8ec54eac.chunk.js",
+    "static/js/2.8ec54eac.chunk.js.map": "/learnwithme/static/js/2.8ec54eac.chunk.js.map",
     "index.html": "/learnwithme/index.html",
-    "precache-manifest.f5d2532004ac931bf0ce36963b625a51.js": "/learnwithme/precache-manifest.f5d2532004ac931bf0ce36963b625a51.js",
+    "precache-manifest.b0b9295209ea1e46dd3cef66c8a6dade.js": "/learnwithme/precache-manifest.b0b9295209ea1e46dd3cef66c8a6dade.js",
     "service-worker.js": "/learnwithme/service-worker.js",
     "static/css/2.81e2c8a5.chunk.css.map": "/learnwithme/static/css/2.81e2c8a5.chunk.css.map",
-    "static/css/main.e2d371be.chunk.css.map": "/learnwithme/static/css/main.e2d371be.chunk.css.map",
-    "static/js/2.68af27ec.chunk.js.LICENSE.txt": "/learnwithme/static/js/2.68af27ec.chunk.js.LICENSE.txt",
+    "static/css/main.ccc72fe2.chunk.css.map": "/learnwithme/static/css/main.ccc72fe2.chunk.css.map",
+    "static/js/2.8ec54eac.chunk.js.LICENSE.txt": "/learnwithme/static/js/2.8ec54eac.chunk.js.LICENSE.txt",
+    "static/media/im1.jpeg": "/learnwithme/static/media/im1.49d1cb04.jpeg",
+    "static/media/im2.jpg": "/learnwithme/static/media/im2.6598accd.jpg",
+    "static/media/im3.png": "/learnwithme/static/media/im3.2600f59b.png",
     "static/media/portfolio.png": "/learnwithme/static/media/portfolio.dbf8b8a7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3a54fecd.js",
     "static/css/2.81e2c8a5.chunk.css",
-    "static/js/2.68af27ec.chunk.js",
-    "static/css/main.e2d371be.chunk.css",
-    "static/js/main.3485f249.chunk.js"
+    "static/js/2.8ec54eac.chunk.js",
+    "static/css/main.ccc72fe2.chunk.css",
+    "static/js/main.89210e07.chunk.js"
   ]
 }
