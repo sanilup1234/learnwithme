@@ -1,5 +1,5 @@
 ## Screenshot
-![Sceenshot](https://github.com/sanilup1234/learnwithme/blob/master/2020-07-09.png.png?raw=true)
+![Sceenshot](https://github.com/sanilup1234/learnwithme/blob/master/2020-07-09.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
