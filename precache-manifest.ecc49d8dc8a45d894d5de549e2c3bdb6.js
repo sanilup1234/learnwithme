@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3821bf1201feb88d9483063245be424f",
+    "revision": "701bf356f20419261926e9ed3ebc7a88",
     "url": "/learnwithme/index.html"
   },
   {
-    "revision": "cb3d31eb6dc687ce92c0",
+    "revision": "a85f11f507d811f077ba",
     "url": "/learnwithme/static/css/2.81e2c8a5.chunk.css"
   },
   {
-    "revision": "bd53d9efd5e0512d2375",
+    "revision": "cd727b67ba920d44ccb1",
     "url": "/learnwithme/static/css/main.ccc72fe2.chunk.css"
   },
   {
-    "revision": "cb3d31eb6dc687ce92c0",
-    "url": "/learnwithme/static/js/2.8ec54eac.chunk.js"
+    "revision": "a85f11f507d811f077ba",
+    "url": "/learnwithme/static/js/2.853cf19e.chunk.js"
   },
   {
     "revision": "78515c9771bfe2c0c4edd66ea704f668",
-    "url": "/learnwithme/static/js/2.8ec54eac.chunk.js.LICENSE.txt"
+    "url": "/learnwithme/static/js/2.853cf19e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd53d9efd5e0512d2375",
-    "url": "/learnwithme/static/js/main.89210e07.chunk.js"
+    "revision": "cd727b67ba920d44ccb1",
+    "url": "/learnwithme/static/js/main.6ae6923a.chunk.js"
   },
   {
     "revision": "ed528f7c72e1cd32e55f",
     "url": "/learnwithme/static/js/runtime-main.3a54fecd.js"
+  },
+  {
+    "revision": "b376fba65779cdf8ac4d80c4ec8b19ba",
+    "url": "/learnwithme/static/media/cs.b376fba6.png"
   },
   {
     "revision": "49d1cb04c903b90b8c52ea3e5fffd7bc",
